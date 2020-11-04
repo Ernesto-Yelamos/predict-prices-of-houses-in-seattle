@@ -1,4 +1,5 @@
 **PREDICTING SELLING PRICES OF HOUSES IN SEATTLE, USA**
+
 W5 - PROJECT
 
 The structure of the repo created for this project is robust.
