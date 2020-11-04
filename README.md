@@ -1,3 +1,10 @@
+The structure of the repo created for this project is robust.
+The README file elaborately defines the purpose of the
+project, talks briefly about the methodology used to build the
+model and the structure of the repo is also clear. The use of
+semantic names is abundant, making very clever choices to
+economize steps and optimize understanding.
+
 Project details - regression
 
 **Background**: You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated.
