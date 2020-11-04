@@ -19,8 +19,8 @@ Project details - regression
 
 **Methodology**: Linear regression model 
 
-    To explore the data, you can use the techniques that have been discussed in class. Some of them include using the describe method, checking null values, using _matplotlib_ and     _seaborn_ for developing visualizations. 
+   To explore the data, you can use the techniques that have been discussed in class. Some of them include using the describe method, checking null values, using _matplotlib_ and     _seaborn_ for developing visualizations. 
 
-    Use different models to compare the accuracies and find the model that best fits your data. You can use the measures of accuracies that have been discussed in class. Please       note that while comparing different models, make sure you use the same measure of accuracy as a benchmark.
+   Use different models to compare the accuracies and find the model that best fits your data. You can use the measures of accuracies that have been discussed in class. Please         note that while comparing different models, make sure you use the same measure of accuracy as a benchmark.
 
 
